@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "none",
+        "jsx": "react",
+        "noImplicitReturns": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceMap": true
+    },
+    "include": [
+        "exo2/*",
+        "exo3/*",
+        "exo4/*",
+        "exo5/*"
+    ],
+    "exclude": ["node_modules"]
+}
